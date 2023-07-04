@@ -6,9 +6,9 @@ arrows or WSAD keys.
 ## Screenshoots
 The same board but the view was moved
 
-[](/readme_img/moved1.png)
-[](/readme_img/moved2.png)
-[](/readme_img/moved3.png)
+![](/readme_img/moved1.png)
+![](/readme_img/moved2.png)
+![](/readme_img/moved3.png)
 
 ## Customize
 In the main.py file, you have the option to customize the following settings: 
