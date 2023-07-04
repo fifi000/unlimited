@@ -4,7 +4,7 @@ On the screen is always displayed a grid of a constant size and you can navigate
 arrows or WSAD keys.
 
 ## Screenshoots
-The same board but the view was moved
+The very same board but the view has been moved
 
 ![](/readme_img/moved1.png)
 ![](/readme_img/moved2.png)
