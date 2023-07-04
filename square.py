@@ -2,9 +2,7 @@ import pygame
 
 
 class Square:
-    X = "X"
-    O = "O"
-    marks = (O, X)
+    marks = O, X = "O", "X"
 
     fg_color = None
     window = None

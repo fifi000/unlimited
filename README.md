@@ -3,6 +3,14 @@ A python game build with Pygame that expands the classic version by introducing 
 On the screen is always displayed a grid of a constant size and you can navigate using keyboard
 arrows or WSAD keys.
 
+## Screenshoots
+The same board but the view was moved
+
+[](/readme_img/moved1.png)
+[](/readme_img/moved2.png)
+[](/readme_img/moved3.png)
+
+## Customize
 In the main.py file, you have the option to customize the following settings: 
 * width and hight
 * the visible size of the grid
